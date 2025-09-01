@@ -1,16 +1,16 @@
 # Soup Shop Frontend
 
 <p align="center">
-  <img src="./readme-images/image1.png" alt="Soup Shop Screenshot 1" width="600"/>
+  <img src="./readme-images/1.png" alt="Soup Shop Screenshot 1" width="600"/>
 </p>
 <p align="center">
-  <img src="./readme-images/image2.png" alt="Soup Shop Screenshot 2" width="600"/>
+  <img src="./readme-images/2.png" alt="Soup Shop Screenshot 2" width="600"/>
 </p>
 <p align="center">
-  <img src="./readme-images/image3.png" alt="Soup Shop Screenshot 3" width="600"/>
+  <img src="./readme-images/3.png" alt="Soup Shop Screenshot 3" width="600"/>
 </p>
 <p align="center">
-  <img src="./readme-images/image4.png" alt="Soup Shop Screenshot 4" width="600"/>
+  <img src="./readme-images/4.png" alt="Soup Shop Screenshot 4" width="600"/>
 </p>
 
 ---
