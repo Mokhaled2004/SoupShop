@@ -48,7 +48,27 @@ This is the frontend application for the Soup Shop, a web application for orderi
 ### Installation
 
 1. Clone the repository
+   ```bash
+   git clone https://github.com/Mokhaled2004/SoupShop.git
+   ```
 2. Navigate to the frontend directory:
    ```bash
-   cd frontend
+   cd SoupShop/frontend
    ```
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+   or
+
+   ```bash
+   yarn install
+   ```
+
+4. Run the Application:
+   ```bash
+   npm run dev
+   ```
+   The application will be running at http://localhost:5173
