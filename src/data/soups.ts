@@ -50,7 +50,7 @@ const soups: Soup[] = [
     description:
       "Tender chunks of beef simmered with root vegetables in a rich, savory broth. Perfect for cold days.",
     price: 8.99,
-    imageUrl: soupImages[0],
+    imageUrl: soupImages[5],
     category: "meat",
     ingredients: [
       "Beef chuck",
